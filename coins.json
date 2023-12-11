@@ -1,163 +1,177 @@
 [
-  {
-    "id": 3,
-    "coingecko": "pax-gold",
-    "symbol": "PAXG",
-    "amount": 0.5,
-    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png"
-  },
-  {
-    "id": 4,
-    "coingecko": "ripple",
-    "symbol": "XRP",
-    "amount": 111300.53,
-    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
-  },
-  {
-    "id": 5,
-    "coingecko": "ethereum",
-    "symbol": "ETH",
-    "amount": 1.7666,
-    "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
-  },
-  {
-    "id": 6,
-    "coingecko": "bitcoin",
-    "symbol": "BTC",
-    "amount": 0.111,
-    "imageUrl": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png"
-  },
-  {
-    "id": 7,
-    "coingecko": "energy-web-token",
-    "symbol": "EWT",
-    "amount": 1001.275,
-    "imageUrl": "https://www.energyweb.org/wp-content/uploads/2022/11/cropped-ew-favicon-192x192.png"
-  },
-  {
-    "id": 8,
-    "coingecko": "polkadot",
-    "symbol": "DOT",
-    "amount": 257,
-    "imageUrl": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png"
-  },
-  {
-    "id": 9,
-    "coingecko": "chainlink",
-    "symbol": "LINK",
-    "amount": 250.8543,
-    "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
-  },
-  {
-    "id": 10,
-    "coingecko": "matic-network",
-    "symbol": "matic",
-    "amount": 3288.8954,
-    "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
-  },
-  {
-    "id": 11,
-    "coingecko": "stellar",
-    "symbol": "XLM",
-    "amount": 25000,
-    "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png"
-  },
-  {
-    "id": 12,
-    "coingecko": "algorand",
-    "symbol": "ALGO",
-    "amount": 5000,
-    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
-  },
-  {
-    "id": 13,
-    "coingecko": "uniswap",
-    "symbol": "UNI",
-    "amount": 90,
-    "imageUrl": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png"
-  },
-  {
-    "id": 14,
-    "coingecko": "monero",
-    "symbol": "XMR",
-    "amount": 7.1,
-    "imageUrl": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png"
-  },
-  {
-    "id": 15,
-    "coingecko": "solo-coin",
-    "symbol": "SOLO",
-    "amount": 4511.43,
-    "imageUrl": "https://assets.coingecko.com/coins/images/10771/small/solo.png"
-  },
-  {
-    "id": 16,
-    "coingecko": "xi-token",
-    "symbol": "XI",
-    "amount": 20000,
-    "imageUrl": "https://etherscan.io/token/images/xiprotocol_32.png"
-  },
-  {
-    "id": 17,
-    "coingecko": "klima-dao",
-    "symbol": "KLIMADao",
-    "amount": 49.189514092,
-    "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png"
-  },
-  {
-    "id": 18,
-    "coingecko": "cosmos",
-    "symbol": "ATOM",
-    "amount": 225.687036628625,
-    "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png"
-  },
-  {
-    "id": 19,
-    "coingecko": "hedera-hashgraph",
-    "symbol": "HBAR",
-    "amount": 120626.2417,
-    "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png"
-  },
-  {
-    "id": 20,
-    "coingecko": "mobilecoin",
-    "symbol": "MOB",
-    "amount": 33.3,
-    "imageUrl": "https://assets.coingecko.com/coins/images/13311/small/mobilecoin.png"
-  },
-  {
-    "id": 21,
-    "coingecko": "coreum",
-    "symbol": "CORE",
-    "amount": 941.5688,
-    "imageUrl": "https://assets.coingecko.com/coins/images/24169/small/2b7Phdmz_400x400.png"
-  },
-  {
-    "id": 22,
-    "coingecko": "dash",
-    "symbol": "DASH",
-    "amount": 0,
-    "imageUrl": "https://assets.coingecko.com/coins/images/19/small/dash-logo.png"
-  },
-  {
-    "id": 24,
-    "coingecko": "verasity",
-    "symbol": "VRA",
-    "amount": 300000,
-    "imageUrl": "https://etherscan.io/token/images/verasity_32.png"
-  },
-  {
-    "id": 25,
-    "coingecko": "xdce-crowd-sale",
-    "symbol": "XDC",
-    "amount": 13000,
-    "imageUrl": "https://www.xinfin.io/assets/images/brand-assets/xdc-icon.png"
-  },
-  {
-    "id": 26,
-    "coingecko": "digibyte",
-    "symbol": "DGB",
-    "amount": 150000,
-    "imageUrl": "https://assets.coingecko.com/coins/images/63/small/digibyte.png"
-  }
+    {
+        "amount": 0.5,
+        "coingecko": "pax-gold",
+        "id": 3,
+        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+        "symbol": "PAXG"
+    },
+    {
+        "amount": 110802.33,
+        "coingecko": "ripple",
+        "id": 4,
+        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "symbol": "XRP"
+    },
+    {
+        "amount": 1.8056,
+        "coingecko": "ethereum",
+        "id": 5,
+        "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+        "symbol": "ETH"
+    },
+    {
+        "amount": 0.111,
+        "coingecko": "bitcoin",
+        "id": 6,
+        "imageUrl": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+        "symbol": "BTC"
+    },
+    {
+        "amount": 1025.275,
+        "coingecko": "energy-web-token",
+        "id": 7,
+        "imageUrl": "https://www.energyweb.org/wp-content/uploads/2022/11/cropped-ew-favicon-192x192.png",
+        "symbol": "EWT"
+    },
+    {
+        "amount": 257,
+        "coingecko": "polkadot",
+        "id": 8,
+        "imageUrl": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png",
+        "symbol": "DOT"
+    },
+    {
+        "amount": 360,
+        "coingecko": "chainlink",
+        "id": 9,
+        "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
+        "symbol": "LINK"
+    },
+    {
+        "amount": 4533.2454,
+        "coingecko": "matic-network",
+        "id": 10,
+        "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
+        "symbol": "matic"
+    },
+    {
+        "amount": 32500.908,
+        "coingecko": "stellar",
+        "id": 11,
+        "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
+        "symbol": "XLM"
+    },
+    {
+        "amount": 5000,
+        "coingecko": "algorand",
+        "id": 12,
+        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+        "symbol": "ALGO"
+    },
+    {
+        "amount": 0,
+        "coingecko": "uniswap",
+        "id": 13,
+        "imageUrl": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png",
+        "symbol": "UNI"
+    },
+    {
+        "amount": 7.1,
+        "coingecko": "monero",
+        "id": 14,
+        "imageUrl": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png",
+        "symbol": "XMR"
+    },
+    {
+        "amount": 4511.43,
+        "coingecko": "solo-coin",
+        "id": 15,
+        "imageUrl": "../assets/solo.png",
+        "symbol": "SOLO"
+    },
+    {
+        "amount": 0,
+        "coingecko": "xi-token",
+        "id": 16,
+        "imageUrl": "https://etherscan.io/token/images/xiprotocol_32.png",
+        "symbol": "XI"
+    },
+    {
+        "amount": 51.373687392,
+        "coingecko": "klima-dao",
+        "id": 17,
+        "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png",
+        "symbol": "KLIMADao"
+    },
+    {
+        "amount": 280.117167,
+        "coingecko": "cosmos",
+        "id": 18,
+        "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png",
+        "symbol": "ATOM"
+    },
+    {
+        "amount": 131226.3932,
+        "coingecko": "hedera-hashgraph",
+        "id": 19,
+        "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
+        "symbol": "HBAR"
+    },
+    {
+        "amount": 33.3,
+        "coingecko": "mobilecoin",
+        "id": 20,
+        "imageUrl": "https://assets.coingecko.com/coins/images/13311/small/mobilecoin.png",
+        "symbol": "MOB"
+    },
+    {
+        "amount": 1276.1,
+        "coingecko": "coreum",
+        "id": 21,
+        "imageUrl": "https://assets.coingecko.com/coins/images/24169/small/2b7Phdmz_400x400.png",
+        "symbol": "CORE"
+    },
+    {
+        "amount": 0,
+        "coingecko": "dash",
+        "id": 22,
+        "imageUrl": "https://assets.coingecko.com/coins/images/19/small/dash-logo.png",
+        "symbol": "DASH"
+    },
+    {
+        "amount": 300000,
+        "coingecko": "verasity",
+        "id": 24,
+        "imageUrl": "https://etherscan.io/token/images/verasity_32.png",
+        "symbol": "VRA"
+    },
+    {
+        "amount": 13000,
+        "coingecko": "xdce-crowd-sale",
+        "id": 25,
+        "imageUrl": "https://www.xinfin.io/assets/images/brand-assets/xdc-icon.png",
+        "symbol": "XDC"
+    },
+    {
+        "amount": 150000,
+        "coingecko": "digibyte",
+        "id": 26,
+        "imageUrl": "https://assets.coingecko.com/coins/images/63/small/digibyte.png",
+        "symbol": "DGB"
+    },
+    {
+        "amount": 127.5,
+        "coingecko": "injective-protocol",
+        "id": 27,
+        "imageUrl": "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png",
+        "symbol": "INJ"
+    },
+    {
+        "amount": 20,
+        "coingecko": "gmx",
+        "id": 28,
+        "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
+        "symbol": "GMX"
+    }
 ]
