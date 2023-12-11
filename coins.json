@@ -1,0 +1,163 @@
+[
+  {
+    "id": 3,
+    "coingecko": "pax-gold",
+    "symbol": "PAXG",
+    "amount": 0.5,
+    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png"
+  },
+  {
+    "id": 4,
+    "coingecko": "ripple",
+    "symbol": "XRP",
+    "amount": 111300.53,
+    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+  },
+  {
+    "id": 5,
+    "coingecko": "ethereum",
+    "symbol": "ETH",
+    "amount": 1.7666,
+    "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+  },
+  {
+    "id": 6,
+    "coingecko": "bitcoin",
+    "symbol": "BTC",
+    "amount": 0.111,
+    "imageUrl": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png"
+  },
+  {
+    "id": 7,
+    "coingecko": "energy-web-token",
+    "symbol": "EWT",
+    "amount": 1001.275,
+    "imageUrl": "https://www.energyweb.org/wp-content/uploads/2022/11/cropped-ew-favicon-192x192.png"
+  },
+  {
+    "id": 8,
+    "coingecko": "polkadot",
+    "symbol": "DOT",
+    "amount": 257,
+    "imageUrl": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png"
+  },
+  {
+    "id": 9,
+    "coingecko": "chainlink",
+    "symbol": "LINK",
+    "amount": 250.8543,
+    "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  },
+  {
+    "id": 10,
+    "coingecko": "matic-network",
+    "symbol": "matic",
+    "amount": 3288.8954,
+    "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
+  },
+  {
+    "id": 11,
+    "coingecko": "stellar",
+    "symbol": "XLM",
+    "amount": 25000,
+    "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png"
+  },
+  {
+    "id": 12,
+    "coingecko": "algorand",
+    "symbol": "ALGO",
+    "amount": 5000,
+    "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+  },
+  {
+    "id": 13,
+    "coingecko": "uniswap",
+    "symbol": "UNI",
+    "amount": 90,
+    "imageUrl": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png"
+  },
+  {
+    "id": 14,
+    "coingecko": "monero",
+    "symbol": "XMR",
+    "amount": 7.1,
+    "imageUrl": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png"
+  },
+  {
+    "id": 15,
+    "coingecko": "solo-coin",
+    "symbol": "SOLO",
+    "amount": 4511.43,
+    "imageUrl": "https://assets.coingecko.com/coins/images/10771/small/solo.png"
+  },
+  {
+    "id": 16,
+    "coingecko": "xi-token",
+    "symbol": "XI",
+    "amount": 20000,
+    "imageUrl": "https://etherscan.io/token/images/xiprotocol_32.png"
+  },
+  {
+    "id": 17,
+    "coingecko": "klima-dao",
+    "symbol": "KLIMADao",
+    "amount": 49.189514092,
+    "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png"
+  },
+  {
+    "id": 18,
+    "coingecko": "cosmos",
+    "symbol": "ATOM",
+    "amount": 225.687036628625,
+    "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png"
+  },
+  {
+    "id": 19,
+    "coingecko": "hedera-hashgraph",
+    "symbol": "HBAR",
+    "amount": 120626.2417,
+    "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png"
+  },
+  {
+    "id": 20,
+    "coingecko": "mobilecoin",
+    "symbol": "MOB",
+    "amount": 33.3,
+    "imageUrl": "https://assets.coingecko.com/coins/images/13311/small/mobilecoin.png"
+  },
+  {
+    "id": 21,
+    "coingecko": "coreum",
+    "symbol": "CORE",
+    "amount": 941.5688,
+    "imageUrl": "https://assets.coingecko.com/coins/images/24169/small/2b7Phdmz_400x400.png"
+  },
+  {
+    "id": 22,
+    "coingecko": "dash",
+    "symbol": "DASH",
+    "amount": 0,
+    "imageUrl": "https://assets.coingecko.com/coins/images/19/small/dash-logo.png"
+  },
+  {
+    "id": 24,
+    "coingecko": "verasity",
+    "symbol": "VRA",
+    "amount": 300000,
+    "imageUrl": "https://etherscan.io/token/images/verasity_32.png"
+  },
+  {
+    "id": 25,
+    "coingecko": "xdce-crowd-sale",
+    "symbol": "XDC",
+    "amount": 13000,
+    "imageUrl": "https://www.xinfin.io/assets/images/brand-assets/xdc-icon.png"
+  },
+  {
+    "id": 26,
+    "coingecko": "digibyte",
+    "symbol": "DGB",
+    "amount": 150000,
+    "imageUrl": "https://assets.coingecko.com/coins/images/63/small/digibyte.png"
+  }
+]
