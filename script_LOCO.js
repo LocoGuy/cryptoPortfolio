@@ -10,19 +10,17 @@ function initCoins() {
 let coins = [];
 async function initCoins() {
   const url = "./coins.json";
-  const jsonCoins = await fetchJson(url)
+  const jsonCoins = await fetchJson(url);
   var coins = jsonCoins; //JSON.parse(jsonCoins);
-  
-  coins = coins.map(coin => ({
+  console.log("coins-before", coins);
+  coins = coins.map((coin) => ({
     ...coin,
     priceValue: 0,
-    priceCalcValue: 0
+    priceCalcValue: 0,
   }));
 
-  
   //coins = getCoins();
 }
-
 
 function initCards() {
   const coinsDiv = document.getElementById("card-group");
@@ -281,7 +279,7 @@ async function RefreshData() {
 }
 
 async function RunMainScript() {
-  initCoins();
+  await initCoins();
   initCards();
   await RefreshData();
 }
