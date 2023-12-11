@@ -10,10 +10,17 @@ function initCoins() {
 let coins = [];
 function initCoins() {
   const url = "./coins.json";
-  const json = fetchJson(url)
-  console.log(json);
-  return;
-  coins = getCoins();
+  const  jsonCoins= fetchJson(url)
+  var coins = jsonCoins; //JSON.parse(jsonCoins);
+  
+  coins = coins.map(coin => ({
+    ...coin,
+    priceValue: 0,
+    priceCalcValue: 0
+  }));
+
+  
+  //coins = getCoins();
 }
 
 
