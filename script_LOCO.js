@@ -8,9 +8,9 @@ function initCoins() {
 */
 
 let coins = [];
-function initCoins() {
+async function initCoins() {
   const url = "./coins.json";
-  const  jsonCoins= fetchJson(url)
+  const jsonCoins = await fetchJson(url)
   var coins = jsonCoins; //JSON.parse(jsonCoins);
   
   coins = coins.map(coin => ({
