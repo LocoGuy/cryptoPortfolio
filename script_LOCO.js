@@ -1,25 +1,18 @@
-/*let coins = [];
-
-function initCoins() {
-  coins = getCoins();
-  //const url = "./coins.json";
-  //const json = fetchJson(url);
-}
-*/
-
 let coins = [];
 async function initCoins() {
+
+    //coins = getCoins();
+
   const url = "./coins.json";
   const jsonCoins = await fetchJson(url);
   coins = jsonCoins; //JSON.parse(jsonCoins);
-  console.log("coins-before", coins);
+  //console.log("coins-before", coins);
   coins = coins.map((coin) => ({
     ...coin,
     priceValue: 0,
     priceCalcValue: 0,
   }));
-  console.log("coins-after", coins);
-  //coins = getCoins();
+
 }
 
 function initCards() {
