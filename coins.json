@@ -7,7 +7,7 @@
         "symbol": "PAXG"
     },
     {
-        "amount": 110802.33,
+        "amount": 111000.5845,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -42,7 +42,7 @@
         "symbol": "DOT"
     },
     {
-        "amount": 360,
+        "amount": 370,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -87,7 +87,7 @@
         "amount": 4511.43,
         "coingecko": "solo-coin",
         "id": 15,
-        "imageUrl": "../assets/solo.png",
+        "imageUrl": "https://assets.coingecko.com/coins/images/10771/standard/solo.png",
         "symbol": "SOLO"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "XI"
     },
     {
-        "amount": 51.373687392,
+        "amount": 51.382204798,
         "coingecko": "klima-dao",
         "id": 17,
         "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png",
@@ -112,7 +112,7 @@
         "symbol": "ATOM"
     },
     {
-        "amount": 131226.3932,
+        "amount": 131288.6945,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -147,7 +147,7 @@
         "symbol": "VRA"
     },
     {
-        "amount": 13000,
+        "amount": 15000,
         "coingecko": "xdce-crowd-sale",
         "id": 25,
         "imageUrl": "https://www.xinfin.io/assets/images/brand-assets/xdc-icon.png",
@@ -161,7 +161,7 @@
         "symbol": "DGB"
     },
     {
-        "amount": 127.5,
+        "amount": 130,
         "coingecko": "injective-protocol",
         "id": 27,
         "imageUrl": "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png",
@@ -173,5 +173,12 @@
         "id": 28,
         "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
         "symbol": "GMX"
+    },
+    {
+        "amount": 10.3919,
+        "coingecko": "avalanche-2",
+        "id": 29,
+        "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
+        "symbol": "AVAX"
     }
 ]
