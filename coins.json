@@ -1,12 +1,5 @@
 [
     {
-        "amount": 0.5,
-        "coingecko": "pax-gold",
-        "id": 3,
-        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
-        "symbol": "PAXG"
-    },
-    {
         "amount": 111000.5845,
         "coingecko": "ripple",
         "id": 4,
