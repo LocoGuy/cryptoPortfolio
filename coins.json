@@ -179,13 +179,13 @@
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
-        "symbol": "AITECH"
+        "symbol": "GAU"
     },
     {
-        "amount": 2500,
+        "amount": 3300,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
-        "symbol": "GAU"
+        "symbol": "AITECH"
     }
 ]
