@@ -182,10 +182,17 @@
         "symbol": "GAU"
     },
     {
-        "amount": 3300,
+        "amount": 4000,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
+    },
+    {
+        "amount": 131,
+        "coingecko": "gt-protocol",
+        "id": 32,
+        "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
+        "symbol": "GTAI"
     }
 ]
