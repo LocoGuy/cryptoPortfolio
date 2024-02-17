@@ -257,7 +257,7 @@ async function GetCryptoInfos() {
   //const paraCoinPricesFooter = document.getElementById("paraCoinPricesFooter");
   //paraCoinPricesFooter.innerText = "CHF " + (sumValue / 3).toFixed(2);
 
-  var investment = 30000;
+  var investment = 50000;
   var percentageValue = (sumValue / investment) * 100 - 100;
   SetProfitLine(parseFloat(percentageValue).toFixed(2) + " %", percentageValue);
   refreshButton.classList.remove("fa-spin");
