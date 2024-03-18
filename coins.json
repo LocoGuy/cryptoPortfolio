@@ -175,21 +175,21 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 5000.0,
+        "amount": 5500.0,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 5250,
+        "amount": 5500,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
     },
     {
-        "amount": 200,
+        "amount": 220,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
