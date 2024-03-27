@@ -194,5 +194,12 @@
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
         "symbol": "GTAI"
+    },
+    {
+        "amount": 20000,
+        "coingecko": "wam",
+        "id": 33,
+        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
+        "symbol": "WAM"
     }
 ]
