@@ -105,7 +105,7 @@
         "symbol": "ATOM"
     },
     {
-        "amount": 131378.3420,
+        "amount": 131381.0338,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -168,28 +168,28 @@
         "symbol": "GMX"
     },
     {
-        "amount": 15.8139,
+        "amount": 16.2123,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 6250.0,
+        "amount": 6500.0,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 6250,
+        "amount": 6500,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
     },
     {
-        "amount": 270,
+        "amount": 300,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
