@@ -91,7 +91,7 @@
         "symbol": "XI"
     },
     {
-        "amount": 51.382204798,
+        "amount": 0,
         "coingecko": "klima-dao",
         "id": 17,
         "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png",
@@ -196,7 +196,7 @@
         "symbol": "GTAI"
     },
     {
-        "amount": 25000,
+        "amount": 30000,
         "coingecko": "wam",
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
