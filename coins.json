@@ -42,7 +42,7 @@
         "symbol": "LINK"
     },
     {
-        "amount": 4533.2454,
+        "amount": 5002.228,
         "coingecko": "matic-network",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
@@ -105,7 +105,7 @@
         "symbol": "ATOM"
     },
     {
-        "amount": 131386.2079,
+        "amount": 131392.6744,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -189,14 +189,14 @@
         "symbol": "AITECH"
     },
     {
-        "amount": 350,
+        "amount": 360,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
         "symbol": "GTAI"
     },
     {
-        "amount": 40000,
+        "amount": 50000,
         "coingecko": "wam",
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
