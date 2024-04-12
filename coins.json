@@ -1,6 +1,6 @@
 [
     {
-        "amount": 111000.5845,
+        "amount": 111211.5845,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -42,7 +42,7 @@
         "symbol": "LINK"
     },
     {
-        "amount": 5002.228,
+        "amount": 5102.228,
         "coingecko": "matic-network",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
@@ -63,13 +63,6 @@
         "symbol": "ALGO"
     },
     {
-        "amount": 0,
-        "coingecko": "uniswap",
-        "id": 13,
-        "imageUrl": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png",
-        "symbol": "UNI"
-    },
-    {
         "amount": 7.1,
         "coingecko": "monero",
         "id": 14,
@@ -82,20 +75,6 @@
         "id": 15,
         "imageUrl": "https://assets.coingecko.com/coins/images/10771/standard/solo.png",
         "symbol": "SOLO"
-    },
-    {
-        "amount": 0,
-        "coingecko": "xi-token",
-        "id": 16,
-        "imageUrl": "https://etherscan.io/token/images/xiprotocol_32.png",
-        "symbol": "XI"
-    },
-    {
-        "amount": 0,
-        "coingecko": "klima-dao",
-        "id": 17,
-        "imageUrl": "https://polygonscan.com/token/images/klimadao_32.png",
-        "symbol": "KLIMADao"
     },
     {
         "amount": 300.117167,
@@ -126,13 +105,6 @@
         "symbol": "CORE"
     },
     {
-        "amount": 0,
-        "coingecko": "dash",
-        "id": 22,
-        "imageUrl": "https://assets.coingecko.com/coins/images/19/small/dash-logo.png",
-        "symbol": "DASH"
-    },
-    {
         "amount": 300000,
         "coingecko": "verasity",
         "id": 24,
@@ -161,42 +133,42 @@
         "symbol": "INJ"
     },
     {
-        "amount": 20,
+        "amount": 22,
         "coingecko": "gmx",
         "id": 28,
         "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
         "symbol": "GMX"
     },
     {
-        "amount": 18.1672,
+        "amount": 18.2762,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 8500,
+        "amount": 9000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 8000,
+        "amount": 8250,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
     },
     {
-        "amount": 360,
+        "amount": 370,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
         "symbol": "GTAI"
     },
     {
-        "amount": 55000,
+        "amount": 60000,
         "coingecko": "wam",
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
