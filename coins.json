@@ -1,6 +1,6 @@
 [
     {
-        "amount": 111211.5845,
+        "amount": 111411.5845,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -140,35 +140,35 @@
         "symbol": "GMX"
     },
     {
-        "amount": 18.2762,
+        "amount": 18.8973,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 9000,
+        "amount": 10000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 8250,
+        "amount": 9000,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
     },
     {
-        "amount": 370,
+        "amount": 400,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
         "symbol": "GTAI"
     },
     {
-        "amount": 60000,
+        "amount": 70000,
         "coingecko": "wam",
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
