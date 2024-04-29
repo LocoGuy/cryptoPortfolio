@@ -42,7 +42,7 @@
         "symbol": "LINK"
     },
     {
-        "amount": 5555.5,
+        "amount": 5900.4,
         "coingecko": "matic-network",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
@@ -84,7 +84,7 @@
         "symbol": "ATOM"
     },
     {
-        "amount": 131396.5882,
+        "amount": 131406.9182,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -133,14 +133,14 @@
         "symbol": "INJ"
     },
     {
-        "amount": 25.0,
+        "amount": 30.0,
         "coingecko": "gmx",
         "id": 28,
         "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
         "symbol": "GMX"
     },
     {
-        "amount": 30.4937,
+        "amount": 35.0932,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
@@ -154,21 +154,21 @@
         "symbol": "GAU"
     },
     {
-        "amount": 10000,
+        "amount": 11000,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
         "symbol": "AITECH"
     },
     {
-        "amount": 450,
+        "amount": 500,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
         "symbol": "GTAI"
     },
     {
-        "amount": 77700,
+        "amount": 100000,
         "coingecko": "wam",
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
