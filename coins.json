@@ -1,6 +1,6 @@
 [
     {
-        "amount": 112000,
+        "amount": 112200,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -42,7 +42,7 @@
         "symbol": "LINK"
     },
     {
-        "amount": 6200.870952148792555615,
+        "amount": 6703.370952,
         "coingecko": "matic-network",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
@@ -84,7 +84,7 @@
         "symbol": "ATOM"
     },
     {
-        "amount": 131406.9182,
+        "amount": 132006.9182,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -140,21 +140,21 @@
         "symbol": "GMX"
     },
     {
-        "amount": 35.0932,
+        "amount": 42.55,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 10000,
+        "amount": 11000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 11000,
+        "amount": 12500,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
