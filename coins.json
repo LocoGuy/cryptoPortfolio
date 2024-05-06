@@ -42,7 +42,7 @@
         "symbol": "LINK"
     },
     {
-        "amount": 6703.370952,
+        "amount": 7003.3693,
         "coingecko": "matic-network",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png",
@@ -154,7 +154,7 @@
         "symbol": "GAU"
     },
     {
-        "amount": 12500,
+        "amount": 13000,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
