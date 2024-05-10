@@ -174,4 +174,12 @@
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
         "symbol": "WAM"
     }
+    ,
+    {
+        "amount": 21000000,
+        "coingecko": "pepe",
+        "id": 34,
+        "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
+        "symbol": "PEPE"
+    }
 ]
