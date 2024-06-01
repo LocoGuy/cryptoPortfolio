@@ -147,7 +147,7 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 11000,
+        "amount": 15000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
@@ -176,7 +176,7 @@
     }
     ,
     {
-        "amount": 80000000,
+        "amount": 100000000,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
