@@ -161,7 +161,7 @@
         "symbol": "AITECH"
     },
     {
-        "amount": 555,
+        "amount": 600,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
@@ -176,7 +176,7 @@
     }
     ,
     {
-        "amount": 125000000,
+        "amount": 137500000,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
