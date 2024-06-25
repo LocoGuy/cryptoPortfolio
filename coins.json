@@ -140,7 +140,7 @@
         "symbol": "GMX"
     },
     {
-        "amount": 100.286,
+        "amount": 104.286,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
@@ -161,7 +161,7 @@
         "symbol": "AITECH"
     },
     {
-        "amount": 600,
+        "amount": 640,
         "coingecko": "gt-protocol",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
@@ -176,7 +176,7 @@
     }
     ,
     {
-        "amount": 137500000,
+        "amount": 150000000,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
