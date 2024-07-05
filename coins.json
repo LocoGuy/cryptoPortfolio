@@ -35,7 +35,7 @@
         "symbol": "DOT"
     },
     {
-        "amount": 370,
+        "amount": 380,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -77,7 +77,7 @@
         "symbol": "SOLO"
     },
     {
-        "amount": 330.117167,
+        "amount": 350.117167,
         "coingecko": "cosmos",
         "id": 18,
         "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png",
@@ -140,21 +140,21 @@
         "symbol": "GMX"
     },
     {
-        "amount": 125.98,
+        "amount": 135,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 15000,
+        "amount": 17000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
         "symbol": "GAU"
     },
     {
-        "amount": 15000,
+        "amount": 16000,
         "coingecko": "solidus-aitech",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
@@ -176,7 +176,7 @@
     }
     ,
     {
-        "amount": 160000000,
+        "amount": 180000000,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
