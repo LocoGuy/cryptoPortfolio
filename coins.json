@@ -133,21 +133,21 @@
         "symbol": "INJ"
     },
     {
-        "amount": 45.0,
-        "coingecko": "",
+        "amount": 50.0,
+        "coingecko": "gmx",
         "id": 28,
         "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
         "symbol": "GMX"
     },
     {
-        "amount": 150.24,
+        "amount": 155.55,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 20000,
+        "amount": 22000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
