@@ -1,6 +1,6 @@
 [
     {
-        "amount": 112200,
+        "amount": 111300.0000,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -63,13 +63,6 @@
         "symbol": "ALGO"
     },
     {
-        "amount": 7.1,
-        "coingecko": "monero",
-        "id": 14,
-        "imageUrl": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png",
-        "symbol": "XMR"
-    },
-    {
         "amount": 4511.43,
         "coingecko": "solo-coin",
         "id": 15,
@@ -126,7 +119,7 @@
         "symbol": "DGB"
     },
     {
-        "amount": 130,
+        "amount": 120,
         "coingecko": "injective-protocol",
         "id": 27,
         "imageUrl": "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png",
