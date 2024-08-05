@@ -28,14 +28,14 @@
         "symbol": "EWT"
     },
     {
-        "amount": 303,
+        "amount": 305,
         "coingecko": "polkadot",
         "id": 8,
         "imageUrl": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png",
         "symbol": "DOT"
     },
     {
-        "amount": 390,
+        "amount": 400,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -71,14 +71,14 @@
         "symbol": "SOLO"
     },
     {
-        "amount": 380.1170,
+        "amount": 400.1172,
         "coingecko": "cosmos",
         "id": 18,
         "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png",
         "symbol": "ATOM"
     },
     {
-        "amount": 132056.3081,
+        "amount": 132058.7335,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://hedera.com/assets/images/black-whiteH-192x192.png",
@@ -170,7 +170,7 @@
     }
     ,
     {
-        "amount": 222222222,
+        "amount": 230000000.00,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
