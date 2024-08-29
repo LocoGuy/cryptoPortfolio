@@ -1,6 +1,6 @@
 [
     {
-        "amount": 114000.0000,
+        "amount": 115000.0000,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -141,7 +141,7 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 31000,
+        "amount": 32000,
         "coingecko": "gamer-arena",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
