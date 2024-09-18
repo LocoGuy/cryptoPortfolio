@@ -167,13 +167,19 @@
         "id": 33,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
         "symbol": "WAM"
-    }
-    ,
+    },
     {
         "amount": 250000000.00,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
         "symbol": "PEPE"
+    },
+    {
+        "amount": 1.04,
+        "coingecko": "binancecoin",
+        "id": 35,
+        "imageUrl": "https://bscscan.com/token/images/bnb-token.svg",
+        "symbol": "BNB"
     }
 ]
