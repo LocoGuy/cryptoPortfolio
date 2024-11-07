@@ -181,5 +181,12 @@
         "id": 35,
         "imageUrl": "https://bscscan.com/token/images/bnb-token.svg",
         "symbol": "BNB"
+    },
+    {
+        "amount": 35000,
+        "coingecko": "we-love-t",
+        "id": 36,
+        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
+        "symbol": "WTL"
     }
 ]
