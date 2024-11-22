@@ -64,7 +64,7 @@
         "symbol": "ALGO"
     },
     {
-        "amount": 2500,
+        "amount": 2000,
         "coingecko": "solo-coin",
         "id": 15,
         "imageUrl": "https://assets.coingecko.com/coins/images/10771/standard/solo.png",
