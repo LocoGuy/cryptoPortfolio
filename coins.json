@@ -56,7 +56,7 @@
         "symbol": "XLM"
     },
     {
-        "amount": 4500,
+        "amount": 4000,
         "coingecko": "algorand",
         "id": 12,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
