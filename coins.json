@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 116700,
+        "amount": 116800,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -183,7 +183,7 @@
         "symbol": "BNB"
     },
     {
-        "amount": 72000,
+        "amount": 75000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
