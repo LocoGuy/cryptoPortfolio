@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 116800,
+        "amount": 117000,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -183,14 +183,14 @@
         "symbol": "BNB"
     },
     {
-        "amount": 75000,
+        "amount": 80000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
         "symbol": "WTL"
     },
     {
-        "amount": 2.5,
+        "amount": 3.69,
         "coingecko": "solana",
         "id": 37,
         "imageUrl": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
