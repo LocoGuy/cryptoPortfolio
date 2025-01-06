@@ -85,13 +85,6 @@
         "symbol": "HBAR"
     },
     {
-        "amount": 33.3,
-        "coingecko": "mobilecoin",
-        "id": 20,
-        "imageUrl": "https://assets.coingecko.com/coins/images/13311/small/mobilecoin.png",
-        "symbol": "MOB"
-    },
-    {
         "amount": 1276.1,
         "coingecko": "coreum",
         "id": 21,
