@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 117200,
+        "amount": 117258.93,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -49,7 +49,7 @@
         "symbol": "matic"
     },
     {
-        "amount": 30500.908,
+        "amount": 31400.908,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
@@ -176,7 +176,7 @@
         "symbol": "BNB"
     },
     {
-        "amount": 90000,
+        "amount": 91000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
