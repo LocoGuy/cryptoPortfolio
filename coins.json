@@ -176,14 +176,14 @@
         "symbol": "BNB"
     },
     {
-        "amount": 93000,
+        "amount": 99000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
         "symbol": "WTL"
     },
     {
-        "amount": 4.547,
+        "amount": 5.0,
         "coingecko": "solana",
         "id": 37,
         "imageUrl": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
