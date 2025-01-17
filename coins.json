@@ -162,7 +162,7 @@
         "symbol": "WAM"
     },
     {
-        "amount": 250000000.00,
+        "amount": 270000000.00,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
@@ -176,7 +176,7 @@
         "symbol": "BNB"
     },
     {
-        "amount": 99000,
+        "amount": 100000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
