@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 117307.9,
+        "amount": 117559.76317,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -49,7 +49,7 @@
         "symbol": "matic"
     },
     {
-        "amount": 32400.908,
+        "amount": 33300.908,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
@@ -120,7 +120,7 @@
         "symbol": "INJ"
     },
     {
-        "amount": 63.0,
+        "amount": 69.0,
         "coingecko": "gmx",
         "id": 28,
         "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
@@ -162,7 +162,7 @@
         "symbol": "WAM"
     },
     {
-        "amount": 288000000,
+        "amount": 300000000,
         "coingecko": "pepe",
         "id": 34,
         "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
@@ -176,14 +176,14 @@
         "symbol": "BNB"
     },
     {
-        "amount": 108000,
+        "amount": 115000,
         "coingecko": "we-love-t",
         "id": 36,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
         "symbol": "WTL"
     },
     {
-        "amount": 5.4,
+        "amount": 5.7,
         "coingecko": "solana",
         "id": 37,
         "imageUrl": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
