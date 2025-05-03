@@ -21,20 +21,6 @@
         "symbol": "BTC"
     },
     {
-        "amount": 1025.275,
-        "coingecko": "energy-web-token",
-        "id": 7,
-        "imageUrl": "https://assets.coingecko.com/coins/images/10886/standard/R9gQTJV__400x400.png",
-        "symbol": "EWT"
-    },
-    {
-        "amount": 300,
-        "coingecko": "polkadot",
-        "id": 8,
-        "imageUrl": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png",
-        "symbol": "DOT"
-    },
-    {
         "amount": 400,
         "coingecko": "chainlink",
         "id": 9,
@@ -56,21 +42,6 @@
         "symbol": "XLM"
     },
     {
-        "amount": 4000,
-        "coingecko": "algorand",
-        "id": 12,
-        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
-        "imageUrl": "https://assets.coingecko.com/coins/images/4380/standard/download.png",
-        "symbol": "ALGO"
-    },
-    {
-        "amount": 2000,
-        "coingecko": "solo-coin",
-        "id": 15,
-        "imageUrl": "https://assets.coingecko.com/coins/images/10771/standard/solo.png",
-        "symbol": "SOLO"
-    },
-    {
         "amount": 400.1172,
         "coingecko": "cosmos",
         "id": 18,
@@ -85,48 +56,6 @@
         "symbol": "HBAR"
     },
     {
-        "amount": 1276.1,
-        "coingecko": "coreum",
-        "id": 21,
-        "imageUrl": "https://assets.coingecko.com/coins/images/24169/small/2b7Phdmz_400x400.png",
-        "symbol": "CORE"
-    },
-    {
-        "amount": 300000,
-        "coingecko": "verasity",
-        "id": 24,
-        "imageUrl": "https://etherscan.io/token/images/verasity_32.png",
-        "symbol": "VRA"
-    },
-    {
-        "amount": 16000,
-        "coingecko": "xdce-crowd-sale",
-        "id": 25,
-        "imageUrl": "https://www.xinfin.io/assets/images/brand-assets/xdc-icon.png",
-        "symbol": "XDC"
-    },
-    {
-        "amount": 146000,
-        "coingecko": "digibyte",
-        "id": 26,
-        "imageUrl": "https://assets.coingecko.com/coins/images/63/small/digibyte.png",
-        "symbol": "DGB"
-    },
-    {
-        "amount": 120,
-        "coingecko": "injective-protocol",
-        "id": 27,
-        "imageUrl": "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png",
-        "symbol": "INJ"
-    },
-    {
-        "amount": 69.0,
-        "coingecko": "gmx",
-        "id": 28,
-        "imageUrl": "https://assets.coingecko.com/coins/images/18323/small/arbit.png",
-        "symbol": "GMX"
-    },
-    {
         "amount": 234,
         "coingecko": "avalanche-2",
         "id": 29,
@@ -134,59 +63,10 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 35000,
-        "coingecko": "gamer-arena",
-        "id": 30,
-        "imageUrl": "https://assets.coingecko.com/coins/images/28151/standard/200x200.png",
-        "symbol": "GAU"
-    },
-    {
-        "amount": 18000,
-        "coingecko": "solidus-aitech",
-        "id": 31,
-        "imageUrl": "https://assets.coingecko.com/coins/images/22114/standard/CMC_200x200_AITECH.png",
-        "symbol": "AITECH"
-    },
-    {
-        "amount": 1000,
-        "coingecko": "gt-protocol",
-        "id": 32,
-        "imageUrl": "https://assets.coingecko.com/coins/images/23118/standard/A1P7aR4m_400x400.jpg",
-        "symbol": "GTAI"
-    },
-    {
-        "amount": 100000,
-        "coingecko": "wam",
-        "id": 33,
-        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/14133.png",
-        "symbol": "WAM"
-    },
-    {
-        "amount": 300000000,
-        "coingecko": "pepe",
-        "id": 34,
-        "imageUrl": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg",
-        "symbol": "PEPE"
-    },
-    {
-        "amount": 1.118,
-        "coingecko": "binancecoin",
-        "id": 35,
-        "imageUrl": "https://bscscan.com/token/images/bnb-token.svg",
-        "symbol": "BNB"
-    },
-    {
-        "amount": 115000,
-        "coingecko": "we-love-t",
-        "id": 36,
-        "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/33686.png",
-        "symbol": "WTL"
-    },
-    {
-        "amount": 5.7,
-        "coingecko": "solana",
-        "id": 37,
-        "imageUrl": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
-        "symbol": "SOL"
+        "amount": 235,
+        "coingecko": "curve-dao-token",
+        "id": 29,
+        "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
+        "symbol": "CRV"
     }
 ]
