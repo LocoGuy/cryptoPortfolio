@@ -63,7 +63,7 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 3500,
+        "amount": 5000,
         "coingecko": "curve-dao-token",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
