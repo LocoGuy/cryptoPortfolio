@@ -63,10 +63,17 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 4100,
+        "amount": 4200,
         "coingecko": "curve-dao-token",
-        "id": 29,
+        "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
         "symbol": "CRV"
+    },
+    {
+        "amount": 11138817.26,
+        "coingecko": "andy-the-wisguy",
+        "id": 31,
+        "imageUrl": "https://assets.coingecko.com/coins/images/35910/standard/IMG_20240309_044840_797.jpg",
+        "symbol": "ANDY"
     }
 ]
