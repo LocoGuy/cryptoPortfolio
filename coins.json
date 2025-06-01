@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 117600.76317,
+        "amount": 117711.71,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -70,14 +70,14 @@
         "symbol": "CRV"
     },
     {
-        "amount": 40000000,
+        "amount": 50000000,
         "coingecko": "andy-the-wisguy",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/35910/standard/IMG_20240309_044840_797.jpg",
         "symbol": "ANDY"
     },
     {
-        "amount": 4000,
+        "amount": 9000,
         "coingecko": "destra-network",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/35996/standard/Destra_Network.png",
