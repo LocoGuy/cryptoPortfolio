@@ -21,7 +21,7 @@
         "symbol": "BTC"
     },
     {
-        "amount": 400,
+        "amount": 420,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -63,7 +63,7 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 16000,
+        "amount": 18000,
         "coingecko": "curve-dao-token",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
