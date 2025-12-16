@@ -1,13 +1,13 @@
 [
     {    
-        "amount": 112000,
+        "amount": 112100,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
         "symbol": "XRP"
     },
     {
-        "amount": 2.000,
+        "amount": 2.1025,
         "coingecko": "ethereum",
         "id": 5,
         "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
@@ -35,7 +35,7 @@
         "symbol": "POL"
     },
     {
-        "amount": 34000.908,
+        "amount": 35000.908,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
@@ -56,14 +56,14 @@
         "symbol": "HBAR"
     },
     {
-        "amount": 300,
+        "amount": 320,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 20000,
+        "amount": 21000,
         "coingecko": "curve-dao-token",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
