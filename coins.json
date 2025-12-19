@@ -1,13 +1,13 @@
 [
     {    
-        "amount": 112100,
+        "amount": 112211,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
         "symbol": "XRP"
     },
     {
-        "amount": 2.1025,
+        "amount": 2.111,
         "coingecko": "ethereum",
         "id": 5,
         "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
@@ -21,7 +21,7 @@
         "symbol": "BTC"
     },
     {
-        "amount": 420,
+        "amount": 430,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -35,7 +35,7 @@
         "symbol": "POL"
     },
     {
-        "amount": 35000.908,
+        "amount": 36000.908,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
@@ -56,14 +56,14 @@
         "symbol": "HBAR"
     },
     {
-        "amount": 320,
+        "amount": 330,
         "coingecko": "avalanche-2",
         "id": 29,
         "imageUrl": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
         "symbol": "AVAX"
     },
     {
-        "amount": 21000,
+        "amount": 22000,
         "coingecko": "curve-dao-token",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
