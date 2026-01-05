@@ -70,14 +70,14 @@
         "symbol": "CRV"
     },
     {
-        "amount": 50000000,
+        "amount": 0,
         "coingecko": "andy-the-wisguy",
         "id": 31,
         "imageUrl": "https://assets.coingecko.com/coins/images/35910/standard/IMG_20240309_044840_797.jpg",
         "symbol": "ANDY"
     },
     {
-        "amount": 13000,
+        "amount": 0,
         "coingecko": "destra-network",
         "id": 32,
         "imageUrl": "https://assets.coingecko.com/coins/images/35996/standard/Destra_Network.png",
