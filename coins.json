@@ -1,13 +1,13 @@
 [
     {    
-        "amount": 112211,
+        "amount": 118500,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
         "symbol": "XRP"
     },
     {
-        "amount": 2.2,
+        "amount": 2.6,
         "coingecko": "ethereum",
         "id": 5,
         "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
@@ -21,7 +21,7 @@
         "symbol": "BTC"
     },
     {
-        "amount": 430,
+        "amount": 500,
         "coingecko": "chainlink",
         "id": 9,
         "imageUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png",
@@ -63,7 +63,7 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 22000,
+        "amount": 25000,
         "coingecko": "curve-dao-token",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
