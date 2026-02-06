@@ -1,13 +1,13 @@
 [
     {    
-        "amount": 119000,
+        "amount": 119500,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
         "symbol": "XRP"
     },
     {
-        "amount": 2.6,
+        "amount": 2.8,
         "coingecko": "ethereum",
         "id": 5,
         "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
@@ -35,7 +35,7 @@
         "symbol": "POL"
     },
     {
-        "amount": 36000.908,
+        "amount": 38000.908,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
@@ -63,24 +63,10 @@
         "symbol": "AVAX"
     },
     {
-        "amount": 25000,
+        "amount": 27000,
         "coingecko": "curve-dao-token",
         "id": 30,
         "imageUrl": "https://assets.coingecko.com/coins/images/12124/standard/Curve.png",
         "symbol": "CRV"
-    },
-    {
-        "amount": 0,
-        "coingecko": "andy-the-wisguy",
-        "id": 31,
-        "imageUrl": "https://assets.coingecko.com/coins/images/35910/standard/IMG_20240309_044840_797.jpg",
-        "symbol": "ANDY"
-    },
-    {
-        "amount": 0,
-        "coingecko": "destra-network",
-        "id": 32,
-        "imageUrl": "https://assets.coingecko.com/coins/images/35996/standard/Destra_Network.png",
-        "symbol": "DSYNC"
     }
 ]
