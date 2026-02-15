@@ -1,6 +1,6 @@
 [
     {    
-        "amount": 119500,
+        "amount": 120000,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
@@ -14,7 +14,7 @@
         "symbol": "ETH"
     },
     {
-        "amount": 0.111,
+        "amount": 0.12,
         "coingecko": "bitcoin",
         "id": 6,
         "imageUrl": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
@@ -28,28 +28,28 @@
         "symbol": "LINK"
     },
     {
-        "amount": 8002.87,
+        "amount": 8002,
         "coingecko": "polygon-ecosystem-token",
         "id": 10,
         "imageUrl": "https://assets.coingecko.com/coins/images/32440/standard/polygon.png",
         "symbol": "POL"
     },
     {
-        "amount": 38000.908,
+        "amount": 40000,
         "coingecko": "stellar",
         "id": 11,
         "imageUrl": "https://assets.coingecko.com/coins/images/100/small/Stellar_symbol_black_RGB.png",
         "symbol": "XLM"
     },
     {
-        "amount": 500.1172,
+        "amount": 500,
         "coingecko": "cosmos",
         "id": 18,
         "imageUrl": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png",
         "symbol": "ATOM"
     },
     {
-        "amount": 100000.0000,
+        "amount": 100000,
         "coingecko": "hedera-hashgraph",
         "id": 19,
         "imageUrl": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png",
