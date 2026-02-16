@@ -1,13 +1,13 @@
 [
     {    
-        "amount": 120000,
+        "amount": 120500,
         "coingecko": "ripple",
         "id": 4,
         "imageUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
         "symbol": "XRP"
     },
     {
-        "amount": 3.05,
+        "amount": 3.3,
         "coingecko": "ethereum",
         "id": 5,
         "imageUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
